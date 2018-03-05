@@ -97,3 +97,5 @@ While ($BeerCount -gt 0) {
     Write-Host "-----"
    
 }
+
+#Copyright 2017 Patrick Kerman Durling
