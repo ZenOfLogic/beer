@@ -98,4 +98,5 @@ While ($BeerCount -gt 0) {
    
 }
 
+#This was a fun project! Thanks to Dennis James Durling for the challenge!
 #Copyright 2017 Patrick Kerman Durling
